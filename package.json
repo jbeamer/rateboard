@@ -1,0 +1,24 @@
+{
+  "name": "rateboard",
+  "version": "0.0.0",
+  "description": "simple web app to dynamically display a Progressive rate board using a query string API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbeamer/rateboard.git"
+  },
+  "keywords": [
+    "progressive",
+    "rate",
+    "board"
+  ],
+  "author": "jonathan-beamer",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/jbeamer/rateboard/issues"
+  }
+}
